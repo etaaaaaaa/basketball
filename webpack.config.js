@@ -5,7 +5,7 @@ module.exports = {
         // './src/index.pug',
         './html/style.scss'
     ],
-    
+
     module: {
         rules: [
             {
